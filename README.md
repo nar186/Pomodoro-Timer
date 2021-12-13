@@ -1,1 +1,1 @@
-# Pomodoro-Timer
+# Pomodoro-TimerThe Pomodoro Technique is a popular time-management method invented by Italian Francesco Cirillo. A simple Pomodoro Timer app that works on a desktop & mobile browser. Pomofucus will help you manage your time and let you focus on any tasks such as study
